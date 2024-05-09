@@ -1,0 +1,10 @@
+Sarah Smith 60.1   
+Adams Ho 60.2
+Ali Khan 60.3
+Cho Hang 60.4
+Zeera Patel 60.5
+Lara Kim 60.6
+Ten Zen 60.7
+Mary Kramer 60.8
+Ria Sinha 60.9
+Ruby Aliza 70.0
